@@ -47,7 +47,7 @@
  .wsite-social .wsite-social-item { width: 28px; height: 30px; margin-right: 5px; }
  .wsite-background, .wsite-header-section { position: relative; background: url(theme/images/default-bg.jpg?1538533533) no-repeat; background-size: cover; background-position: center center; }
  .banner-wrap { position: relative; width: 100%; max-width: 1115px; margin: 20px auto 0; }
- .wsite-header-section:before { position: absolute; top: 0; left: 0; width: 100%; min-height: 100%; height: inherit; background: rgba(0,0,0,0.2); content: ' '; }
+ .wsite-header-section:before { position: absolute; top: 0; left: 0; width: 100%; min-height: 100%; height: inherit; content: ' '; }
  .wsite-section-bg-color:before { display: none; }
  .banner-wrap .container { position: relative; display: table; overflow-y: hidden; padding: 50px 0; box-sizing: border-box; }
  .banner-wrap .banner { display: table-cell; vertical-align: middle; text-align: center; color: #ffffff; }
